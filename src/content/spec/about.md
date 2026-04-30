@@ -4,13 +4,13 @@ Soy Ingeniero Informático recién graduado con pasión por construir soluciones
 
 ## 🛠 Tech Stack
 
-**Lenguajes:** Python, JavaScript/TypeScript, dart, Go, Java, C#, HTML/CSS
+**Lenguajes:** Python, JavaScript/TypeScript, Dart, Go, Java, C#, HTML/CSS
 
 **Frontend:** React, Angular, Astro, Bootstrap
 
 **Backend:** Node.js, Flask, .NET
 
-**Movil**: Flutter
+**Móvil**: Flutter
 
 **Bases de datos:** PostgreSQL, MySQL, MongoDB, SQL Server
 
