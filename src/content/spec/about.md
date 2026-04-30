@@ -1,9 +1,35 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# Sobre mí
 
-::github{repo="saicaca/fuwari"}
+Soy Ingeniero Informático recién graduado con pasión por construir soluciones que realmente funcionen. Me gusta entender el "por qué" detrás de las cosas, no solo usar librerías sin saber qué hacen por debajo.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 🛠 Tech Stack
+
+**Lenguajes:** Python, JavaScript/TypeScript, dart, Go, Java, C#, HTML/CSS
+
+**Frontend:** React, Angular, Astro, Bootstrap
+
+**Backend:** Node.js, Flask, .NET
+
+**Movil**: Flutter
+
+**Bases de datos:** PostgreSQL, MySQL, MongoDB, SQL Server
+
+**Herramientas:** Git, GitHub, Dataiku, OpenCode, Postman, Neovim
+
+## Proyectos
+
+::github{repo="AdanGongoraMartinez/supermarket-comparer-go"}
+
+::github{repo="AdanGongoraMartinez/fuwari-blog"}
+
+## Personal
+
+**Fuera del código**: Linux enthusiast, escucho música mientras programo, juego videojuegos, veo anime y leo cuando puedo.
+
+**Inglés:** Nivel B2 — leo, escribo y me comunico sin problemas.
+
+## Contacto
+
+- GitHub: [AdanGongoraMartinez](https://github.com/AdanGongoraMartinez)
+- Email: [adangonmar@gmail.com](mailto:adangonmar@gmail.com)
+
