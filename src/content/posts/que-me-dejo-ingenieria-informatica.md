@@ -1,7 +1,7 @@
 ---
 title: Qué me dejó la Ingeniería Informática
 published: 2025-04-30
-description: Reflexiones después de graduarme. mi primera vez con Linux, los semestres que parecían de relleno, y el consejo que le darían a mi yo del primer día.
+description: Reflexiones después de graduarme. Mi primera vez con Linux, los semestres que parecían de relleno y el consejo que le daría a mi yo del primer día..
 tags: [Reflexión, Carrera, Linux, Personal]
 category: Personal
 ---
@@ -12,9 +12,9 @@ Pasé cuatro años entendiendo qué significa realmente estudiar algo que te apa
 
 ## La materia que lo cambió todo
 
-Gestión de Servidores fue mi primer contacto real con Linux. Antes de esa materia solo había usarlo en máquina virtual, sin entender nada de verdad.
+Gestión de Servidores fue mi primer contacto real con Linux. Antes de esa materia nunca lo había usado.
 
-Al principio me resultó incómodo. Debian se sentía extraño, no sabía qué estaba haciendo, y tenía mil errores que no sabía cómo résoudre. Pero algo me sorprendió: lo ligero que era comparado con Windows 11.
+Al principio me resultó incómodo. Debian se sentía extraño, no sabía qué estaba haciendo, y tenía mil errores que no sabía cómo resolver. Pero algo me sorprendió: lo ligero que era comparado con Windows 11.
 
 Así que decidí ir más allá. El profe daba puntos extra por instalar Linux nativo, y eso fue la excusa perfecta para probar Linux Mint en mi laptop.
 
@@ -26,7 +26,7 @@ Y ya no me veo usando Windows en mi vida personal. Nunca más.
 
 Los primeros tres semestres fueron... difíciles de justificar. Materias que no tenían ninguna relevancia real para lo que me interesaba aprender.
 
-Era frustrante. Sentía que estaba perdiendo el tiempo en lugar de aprender cosas que realmente me serviran. Pero no toda la carrera es así.
+Era frustrante. Sentía que estaba perdiendo el tiempo en lugar de aprender cosas que realmente me servieran. Pero no toda la carrera es así.
 
 ## Lo que gané
 
@@ -35,7 +35,7 @@ En cuatro años crecí en todo: técnicamente y como persona.
 - Aprendí la mayoría de los lenguajes que uso ahora
 - Desarrollé un workflow centrado en el teclado con vim motions
 - Me adentré en Linux de verdad, guiado por la curiosidad
-- Experimentaba con proyectos y después los entregaba como trabajo a los professores
+- Experimentaba con proyectos y después los entregaba como trabajo a los profesores
 - Mejoré mis habilidades blandas
 - Y aprendí a manejar la timidez tan típica de nuestro perfil
 
@@ -43,7 +43,6 @@ En cuatro años crecí en todo: técnicamente y como persona.
 
 Si pudiera hablar con el Adán del primer día de carrera, le diría:
 
-> Aguantá los primeros 3 semestres. Por muy aburridos e irrelevantes que parescan, no toda la carrera es así. Cuando empiece lo bueno de verdad, te va a gustar tu trabajo.
+> Aguanta los primeros 3 semestres. Por muy aburridos e irrelevantes que parezcan, no toda la carrera es así.
 
 Y tenía razón. Mereció la pena.
-
