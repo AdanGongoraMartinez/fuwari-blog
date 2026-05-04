@@ -1,5 +1,5 @@
 ---
-title: Mi Setup de Desarrollo en 2025
+title: Mi Setup de Desarrollo en 2026
 published: 2025-05-03
 description: Un recorrido por mi entorno de trabajo. Fedora, Niri, Wezterm, Tmux y Neovim. Por qué elegí cada herramienta y cómo las hago trabajar juntas.
 image: "./setup.png"
@@ -7,7 +7,7 @@ tags: [Linux, Neovim, Tmux, Workflow, Personal]
 category: Tech
 ---
 
-# Mi Setup de Desarrollo en 2025
+# Mi Setup de Desarrollo en 2026
 
 Después de cuatro años de experimentos, pruebas y muchos errores, este es el entorno que uso todos los días para programar.
 
@@ -406,3 +406,7 @@ No le recomiendo este setup a alguien que no le guste probar distintas herramien
 ## Conclusión
 
 Este setup es el resultado de años de experimentos y curiosidad. No es perfecto, pero funciona exactamente como lo necesito. Y al final, eso es lo que importa: encontrar las herramientas que te hagan más productivo y disfruta el proceso.
+
+:::note
+Si quieres ver mi configuración completa, está disponible en mis [dotfiles](https://github.com/AdanGongoraMartinez/dotfiles.git).
+:::
