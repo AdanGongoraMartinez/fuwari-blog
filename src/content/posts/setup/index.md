@@ -375,9 +375,33 @@ Usualmente uso Tmuxifier para generar sesiones usando scripts. Solo necesito eje
 tmuxifier load-session <session>
 ```
 
-Y ya tengo el layout que necesito para el proyecto en la ruta adecuada. Mis sesiones de Tmux suelen tener 3 ventanas compartidas: Neovim, una para ejecutar el proyecto y otra con OpenCode. En muchos casos agrego un split horizontal a la ventana que ejecuta el proyecto para ejecutar pruebas unitarias.
+Y automáticamente tengo el layout que necesito para el proyecto.
 
-Dependiendo del proyecto, agrego más ventanas.
+### Un Día Típico
+
+1. Abrir Wezterm
+2. Lanzar la sesión de tmux:
+
+   ```bash
+   tmuxifier load-session <session>
+   ```
+
+3. El comando automáticamente ejecuta el proyecto y abre las herramientas que necesito
+4. Realizar cambios usando Neovim
+5. Usar LazyGit para control de versiones
+
+Mis sesiones de Tmux suelen tener 3 ventanas compartidas: Neovim, una para ejecutar el proyecto y otra con OpenCode. En muchos casos agrego un split horizontal a la ventana que ejecuta el proyecto para ejecutar pruebas unitarias. Dependiendo del proyecto, agrego más ventanas.
+
+## Filosofía
+
+Mi setup sigue una filosofía centrada en:
+
+- **Velocidad**: Todo está optimizado para minimizar fricción entre pensar y ejecutar
+- **Control**: Cada aspecto del entorno está configurado a mi medida
+- **Diversión**: Disfruto el proceso de construir y mejorar mi workflow
+- **Minimalismo**: Solo mantengo lo que realmente uso
+
+No le recomiendo este setup a alguien que no le guste probar distintas herramientas y configuraciones o que no esté acostumbrado a usar la terminal. Este entorno requiere inversión de tiempo para configurarlo y mantenerlo, y no es para todos.
 
 ## Conclusión
 
